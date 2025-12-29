@@ -47,7 +47,3 @@ The system uses a combination of **YOLO (You Only Look Once)** for person detect
 - **Correctness Feedback:** Visualizes keypoints and highlights joints outside the "ideal" angle range to help users correct their form  
 - **Video Processing:** Supports batch processing of MP4 files with automated annotation and output generation  
 
----
-
-## Author
-FANtastic Trio (Manisara Saechan, Thitiwat Habsuwan, Amy Louise Brown)
